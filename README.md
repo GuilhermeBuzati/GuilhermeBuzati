@@ -9,4 +9,4 @@ Também estou com estudos no Delphi em conjunto ao banco MySQL.
 
 Tenho como objetivo aprender novas tecnologias para que possa crescer profissionalmente.
 
-Minha meta este ano é desenvolver um sistema que contemplar tanto a parte web, quanto à mobile e desktop.
+Minha meta este ano é desenvolver um sistema que irá contemplar tanto a parte web, quanto à mobile e desktop.
