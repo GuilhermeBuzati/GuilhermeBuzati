@@ -1,12 +1,11 @@
-- 👋 Olá eu sou Guilherme e sou estudante de desenvolvimento web há 5 anos, utilizo tecnologias como:
+- 👋 Olá eu sou Guilherme e atuo como desenvolvedor há 2 anos, porém iniciei meus estudos de programação em 2015. No meu dia a dia, sou responsável por elaborar e dar manutenção em páginas webs, APIs com Java Spring Boot e Python Flask, aplicações de tratamento de dados com Python, e banco de dados no PostgreSQL e MongoDB.
 
-- 💻 Java EE, PHP;
-- 💻  PostgreSql;
-- 💻 HTML, CSS, Bootstrap e tenho conhecimento básico em JavaScript, AngularJS e JQuery.
- 
-Atualmente estou no ambiente mobile, me aventurando no Flutter juntamente com o Firebase. Em paralelo estou estudando para desenvolver uma API RestFul em Java Spring Boot.
-Também estou com estudos no Delphi em conjunto ao banco MySQL.
+Por fora, em meus estudos pessoais, meu foco é tecnologias atuais do mercado, com isso estou elaborando uma aplicação que irá abranger a parte mobile com Flutter e web com Java Spring Boot e Python Flask como parte de aprendizado.
 
-Tenho como objetivo aprender novas tecnologias para que possa crescer profissionalmente.
-
-Minha meta este ano é desenvolver um sistema que irá contemplar tanto a parte web, quanto à mobile e desktop.
+❖ Front-End: HTML, CSS, Bootstrap, JavaScript, JQuery e AngularJS;
+❖ Back-End: Java, Python, Delphi e PHP;
+❖ Metodologia Ágeis: Scrum e Kanban;
+❖ Cloud: AWS S3, EC2 e ECS;
+❖ SGBDs: PostgreSQL, Oracle, MySQL, SQLite e MongoDB;
+❖ Git, GitHub e GitLab;
+❖ Docker, WSL 2 (Linux) e Windows.
