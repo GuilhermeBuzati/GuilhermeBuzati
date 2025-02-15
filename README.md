@@ -17,10 +17,16 @@ Por fora, em meus estudos pessoais, meu foco é tecnologias atuais do mercado, c
 ❖ Docker, WSL 2 (Linux) e Windows.
 
 
-# 👋 Olá! Eu sou [Seu Nome]  
+# 👋 Olá! Eu sou Guilherme 
 
 ## 🚀 Sobre Mim  
-Sou um **Desenvolvedor Full-Stack** apaixonado por tecnologia, com experiência no desenvolvimento de **APIs RESTful**, aplicações web e mobile. Sempre busco aprender novas tecnologias e aplicar as melhores práticas para criar soluções eficientes e escaláveis.
+👋 Olá! sou um desenvolvedor há 4 anos. Iniciei meus estudos em programação em 2015 e, desde então, venho aprimorando minhas habilidades e explorando novas tecnologias para desenvolver soluções eficientes e escaláveis.
+
+No meu dia a dia, sou responsável pelo desenvolvimento e manutenção de **páginas web, APIs RESTful em FastApi**, além da implementação de **aplicações de tratamento e processamento de dados** utilizando **Python**. Também atuo no gerenciamento e otimização de **bancos de dados relacionais e NoSQL**, como **PostgreSQL e MongoDB**.
+
+Nos meus estudos pessoais, foco em **tecnologias modernas do mercado**, e atualmente estou desenvolvendo uma aplicação que integra **mobile com Flutter** e **web com Java Spring Boot e Python FastAPI/Flask**, como parte do meu aprendizado contínuo.  
+
+Sempre estou em busca de novos desafios e oportunidades para evoluir profissionalmente e contribuir com soluções inovadoras. 🚀
 
 ---
 
@@ -60,15 +66,15 @@ Sou um **Desenvolvedor Full-Stack** apaixonado por tecnologia, com experiência 
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsername&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsername&layout=compact&theme=dark)  
+![GuilhermeBuzati's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeBuzati&theme=vue-dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBuzati&layout=compact&theme=dark)
 
 ---
 
 ## 📫 Contato  
-📧 **E-mail:** [seuemail@email.com](mailto:seuemail@email.com)  
-💼 **LinkedIn:** [linkedin.com/in/seuusername](https://linkedin.com/in/seuusername)  
-🚀 **Portfólio:** [seuportfólio.com](https://seuportfólio.com)  
+📧 **E-mail:** [guilhermeleopoldinoo@gmail.com](mailto:guilhermeleopoldinoo@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/guilhermebuzati](https://linkedin.com/in/guilhermebuzati)  
+🚀 **Portfólio:** [Guilherme Portifólio](https://guilhermebuzati.github.io/portifolio-project/app/screen/index.html#)  
 
 ---
 
