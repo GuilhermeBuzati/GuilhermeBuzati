@@ -3,7 +3,7 @@
 
 No meu dia a dia, sou responsável pelo **desenvolvimento e manutenção de páginas web**, **APIs RESTful em FastAPI** e pela implementação de **aplicações de tratamento e processamento de dados** utilizando **Python**.  
 
-Além disso, sou responsável pela **criação de workers para processos que exigem alta escalabilidade**, utilizando **filas SQS da AWS** para garantir **eficiência e processamento assíncrono** de grandes volumes de dados. Também atuo no **gerenciamento e otimização de bancos de dados relacionais e NoSQL**, como **PostgreSQL e MongoDB**.
+Além disso, sou responsável pela **criação e manutenção de workers para processos que exigem alta escalabilidade**, utilizando **filas SQS da AWS** para garantir **eficiência e processamento assíncrono**. Também atuo no **gerenciamento e otimização de bancos de dados relacionais e NoSQL**, como **PostgreSQL e MongoDB**.
 
 Tenho experiência em **infraestrutura na AWS**, incluindo **S3, EC2, ECS, Lambda e API Gateway**, além de trabalhar com **Docker e ambientes Linux no WSL 2**. Busco sempre aprender novas tecnologias e aprimorar minhas habilidades para criar soluções inovadoras e escaláveis. 🚀
 
