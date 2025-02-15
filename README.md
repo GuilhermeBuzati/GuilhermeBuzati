@@ -1,11 +1,11 @@
 ## 🚀 Sobre Mim  
 👋 Olá! Eu sou Guilherme, um desenvolvedor atuando no mercado há 4 anos. Iniciei meus estudos em programação em 2015 e, desde então, venho aprimorando minhas habilidades e explorando novas tecnologias para desenvolver soluções eficientes e escaláveis.
 
-No meu dia a dia, sou responsável pelo desenvolvimento e manutenção de **páginas web, APIs RESTful em FastApi**, além da implementação de **aplicações de tratamento e processamento de dados** utilizando **Python**. Também atuo no gerenciamento e otimização de **bancos de dados relacionais e NoSQL**, como **PostgreSQL e MongoDB**.
+No meu dia a dia, sou responsável pelo **desenvolvimento e manutenção de páginas web**, **APIs RESTful em FastAPI** e pela implementação de **aplicações de tratamento e processamento de dados** utilizando **Python**.  
 
-Nos meus estudos pessoais, foco em **tecnologias modernas do mercado**, e atualmente estou desenvolvendo uma aplicação que integra **mobile com Flutter** e **web com Java Spring Boot e Python FastAPI/Flask**, como parte do meu aprendizado contínuo.  
+Além disso, sou responsável pela **criação de workers para processos que exigem alta escalabilidade**, utilizando **filas SQS da AWS** para garantir **eficiência e processamento assíncrono** de grandes volumes de dados. Também atuo no **gerenciamento e otimização de bancos de dados relacionais e NoSQL**, como **PostgreSQL e MongoDB**.
 
-Sempre estou em busca de novos desafios e oportunidades para evoluir profissionalmente e contribuir com soluções inovadoras. 🚀
+Tenho experiência em **infraestrutura na AWS**, incluindo **S3, EC2, ECS, Lambda e API Gateway**, além de trabalhar com **Docker e ambientes Linux no WSL 2**. Busco sempre aprender novas tecnologias e aprimorar minhas habilidades para criar soluções inovadoras e escaláveis. 🚀
 
 ---
 
